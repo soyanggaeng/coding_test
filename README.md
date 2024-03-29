@@ -1,3 +1,3 @@
 # coding_test
-- 2024.Feb~ : Leetcode
-- 2024.Mar: Programmers
+- 2024.Feb~ : Leetcode (Python)
+- 2024.Mar: Programmers (SQL)
